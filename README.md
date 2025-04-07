@@ -33,16 +33,6 @@ Este projeto usa apenas o numpy. Instale com o seguinte comando:
 ```bash
 pip install -r requirements.txt
 ```
-Se o arquivo requirements.txt ainda não existir, você pode instalar manualmente:
-
-```bash 
-pip install numpy
-```
-E depois criar o arquivo com:
-
-```bash
-pip freeze > requirements.txt
-```
 
 ## 🚀 Executando o projeto
 Após instalar as dependências basta rodar através do seu editor:
