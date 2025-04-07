@@ -45,11 +45,10 @@ pip freeze > requirements.txt
 ```
 
 ## 🚀 Executando o projeto
-Para executar o script principal, use:
+Após instalar as dependências basta rodar através do seu editor:
+![alt text](image.png)
 
-```bash
-python neuron.ipynb
-```
+
 Certifique-se de que os arquivos data.txt e test.txt estejam no diretório correto (por padrão, sample_data/).
 
 ## 📁 Estrutura esperada do projeto
